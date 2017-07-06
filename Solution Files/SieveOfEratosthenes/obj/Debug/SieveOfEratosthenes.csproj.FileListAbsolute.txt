@@ -1,0 +1,6 @@
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb
